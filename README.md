@@ -57,6 +57,7 @@ For instance, North East Derbyshire Council told us: “The HRA (Housing Revenue
 ## Story coverage
 
 * Ayr Advertiser: [Council tax hike fears as Ayrshire's council debt rises](https://www.ayradvertiser.com/news/25418063.council-tax-hike-fears-ayrshires-council-debt-rises/)
+* Banbury FM: [Council debts up in West Northants but down in Cherwell](https://banburyfm.com/news/council-debts-up-in-west-northants-but-down-in-cherwell/)
 * BBC Northamptonshire: [Local authority's level of debt rises to £679m](https://www.bbc.co.uk/news/articles/c890n9v845yo)
 * BBC North East: [Debt owed by North East councils tops £4.3bn](https://www.bbc.co.uk/news/articles/cvgn7pp5v3vo)
 * BBC Peterborough: [City council's debt rises by £13.5m](https://www.bbc.co.uk/news/articles/cy40kr03rx8o)
@@ -66,7 +67,6 @@ For instance, North East Derbyshire Council told us: “The HRA (Housing Revenue
 * BBC Wales: [Swansea council debt could rise to £750m through borrowing](https://www.bbc.co.uk/news/uk-wales-68171764)
 * BBC West of England: [West's councils sell assets as debts rise by £245m](https://www.bbc.co.uk/news/articles/cglnp2x7p50o)
 * BBC West Midlands: [Council has highest debt among UK local authorities](https://www.bbc.co.uk/news/articles/cnv7p3dzz7yo)
-* Banbury FM: [Council debts up in West Northants but down in Cherwell](https://banburyfm.com/news/council-debts-up-in-west-northants-but-down-in-cherwell/)
 * Bedford Independent: [Concerns raised as councils’ debt rises across Bedfordshire](https://www.bedfordindependent.co.uk/concerns-raised-as-councils-debt-rises-across-bedfordshire/)
 * Bedford Today: [Bedford council's debt has risen 47% in the last year](https://www.bedfordtoday.co.uk/news/politics/council/bedford-councils-debt-has-risen-47-in-the-last-year-5290364)
 * Biggleswade Chronicle: [Central Bedfordshire Council debt has risen by more than a quarter in the past year](https://www.biggleswadetoday.co.uk/news/politics/council/central-bedfordshire-council-debt-has-risen-by-more-than-a-quarter-in-the-past-year-5288015)
