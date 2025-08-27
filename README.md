@@ -64,9 +64,19 @@ For instance, North East Derbyshire Council told us: “The HRA (Housing Revenue
 * BBC Sussex: [East Sussex councils are half-a-billion in debt](https://www.bbc.co.uk/news/articles/cy5pdp3yyqxo)
 * BBC West of England: [West's councils sell assets as debts rise by £245m](https://www.bbc.co.uk/news/articles/cglnp2x7p50o)
 * BBC West Midlands: [Council has highest debt among UK local authorities](https://www.bbc.co.uk/news/articles/cnv7p3dzz7yo)
+* Brecon and Radnor Express: [COUNCIL DEBT: Powys piles on the debt over the past fiscal year](https://www.brecon-radnor.co.uk/news/council-debt-powys-piles-on-the-debt-over-the-past-fiscal-year-825039)
+* Cambrian News: [COUNCIL DEBT: Ceredigion piles on debt, owes £126 million - more than 3 times the reserves it has on hand](https://www.cambrian-news.co.uk/news/council-debt-ceredigion-piles-on-debt-owes-ps126-million-more-than-3-times-the-reserves-it-has-on-hand-825019)
+* Diss Express: [Council debt across Suffolk reaches £1.1bn](https://www.dissexpress.co.uk/news/council-debt-across-suffolk-reaches-1-1bn-9431130/)
+* The Forester: [Forest of Dean Council maintains zero debt amid rising UK council debts](https://www.theforester.co.uk/news/forest-of-dean-council-maintains-zero-debt-amid-rising-uk-council-debts-824917)
 * Greenwich Wire: [Greenwich Council’s debt soars by more than £900 per resident](https://greenwichwire.co.uk/2025/08/26/greenwich-council-debt-soars-900-per-resident-2025/)
+* Liverpool Echo: [Huge £220m increase in region's council debts 'papering over cracks'](https://www.liverpoolecho.co.uk/news/liverpool-news/huge-220m-increase-regions-council-32352012)
+* Luton Today: [Luton council debt has increased to £722million - but it claims borrowing is essential to improve the town](https://www.lutontoday.co.uk/news/politics/council/luton-council-debt-has-increased-to-ps722million-but-it-claims-borrowing-is-essential-to-improve-the-town-5290260)
+* Northampton Chronicle & Echo: [Debt at West Northamptonshire Council rises by more than £90 million in one year, figures reveal](https://www.northamptonchron.co.uk/news/politics/debt-at-west-northamptonshire-council-rises-by-more-than-ps90-million-in-one-year-figures-reveal-5289619)
+* North East Bylines: [North East: Council Debt Levels](https://northeastbylines.co.uk/business/economy/north-east-council-debt-levels/)
+* On The Wight: [Isle of Wight Council debt very small compared to many other councils nationally](https://onthewight.com/isle-of-wight-council-debt-very-small-compared-to-many-other-councils-nationally/)
 * Shetland News: [SIC has lowest borrowing debt of all Scottish local authorities, figures suggest](https://www.shetnews.co.uk/2025/08/27/sic-lowest-borrowing-debt-scotland/)`
 * Suffolk News: [Suffolk's council debt reaches £1.1bn — here's what it means for your area](https://www.suffolknews.co.uk/bury-st-edmunds/news/suffolks-council-debt-reaches-1-1bn-heres-what-it-means-9430793/)
+* The Tenby Observer: [Pembrokeshire Council's debt soars to nearly £200m, worrying experts](https://www.tenby-today.co.uk/news/pembrokeshire-councils-debt-soars-to-nearly-ps200m-worrying-experts-824568)
 
 ## Related projects
 
