@@ -12,6 +12,19 @@ But the recent rise is being partly driven by a near tripling of short-term lend
 
 Experts including Jonathan Carr-West of the Local Government Information Unit (LGIU) said the spiralling levels of debt at local authorities was “extremely worrying”.
 
+## Background
+
+Last year, the Shared Data Unit [reported on the spiralling debts seen at town halls across the country](https://www.bbc.co.uk/news/uk-67707156).
+
+It found council borrowing had reached “staggering” levels at some councils, according to chair of the Public Accounts Committee Dame Meg Hillier.
+
+The money, borrowed largely from an arm of the Treasury, had been used to buy hundreds of commercial assets from shopping centres, to office parks, cinemas, energy companies and housing developments all with the aim of returning a stream of income.
+
+Many council leaders said they had no choice but to invest in order to fill the gap in income they used to receive from the government under the revenue support grant. 
+
+Though that grant has increased in the years since the pandemic, core spending power for local authorities is around 18% down per person compared to 2010, the Institute for Fiscal Studies [found](https://ifs.org.uk/publications/how-have-english-councils-funding-and-spending-changed-2010-2024).
+
+
 ## Methodology
 
 We extracted debt data from the borrowing and investment live tables (Q4 2024 to 2025) by the Department for Levelling Up, Housing and Communities.
