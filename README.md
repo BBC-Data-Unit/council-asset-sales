@@ -1,6 +1,16 @@
 # Schools, care homes and sports clubs sold off to pay spiralling council debt
 
-Communities across the UK are paying for spiralling levels of council borrowing with a fire sale of publicly owned facilities, a [BBC study has found](https://www.bbc.co.uk/news/articles/cq87497v8ypo).
+Councils in the UK added £7.8bn to their growing debt pile in the space of a year - [the Shared Data Unit has found](https://www.bbc.co.uk/news/articles/cq87497v8ypo).
+
+Analysis of data from the Ministry of Housing, Communities and Local Government (MHCLG) shows UK councils owe a combined £122.2bn to lenders, equivalent to £1,791 per resident, as of April 2025.
+
+That is up seven per cent from a total of £114.5bn, the equivalent of £1,677 per resident, a year ago.
+
+Councils can borrow funds to invest in projects such as schools, leisure centres and theatres - they can also borrow to invest in property that will bring in an income over and above repayments on the debt. 
+
+But the recent rise is being partly driven by a near tripling of short-term lending from central government, which in some cases is being used to paper over holes in some council revenue budgets rather than pay for investments and town centre improvements.
+
+Experts including Jonathan Carr-West of the Local Government Information Unit (LGIU) said the spiralling levels of debt at local authorities was “extremely worrying”.
 
 ## Methodology
 
@@ -27,6 +37,7 @@ For instance, North East Derbyshire Council told us: “The HRA (Housing Revenue
 
 * Department for Levelling Up, Housing and Communities: [borrowing and investment live tables (Q4 2024 to 2025)](https://www.gov.uk/government/statistical-data-sets/live-tables-on-local-government-finance#borrowing-and-investment)
 * ONS: [Dataset Estimates of the population for the UK, England, Wales, Scotland and Northern Ireland](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland)
+* Analysis: [Council debt 2025](https://github.com/BBC-Data-Unit/council-asset-sales/blob/main/data/Council%20debt%202025%20-%20for%20sharing.xlsx)
 
 
 ## Scripts
