@@ -66,6 +66,8 @@ For instance, North East Derbyshire Council told us: “The HRA (Housing Revenue
 * BBC Wales: [Swansea council debt could rise to £750m through borrowing](https://www.bbc.co.uk/news/uk-wales-68171764)
 * BBC West of England: [West's councils sell assets as debts rise by £245m](https://www.bbc.co.uk/news/articles/cglnp2x7p50o)
 * BBC West Midlands: [Council has highest debt among UK local authorities](https://www.bbc.co.uk/news/articles/cnv7p3dzz7yo)
+* Banbury FM: [Council debts up in West Northants but down in Cherwell](https://banburyfm.com/news/council-debts-up-in-west-northants-but-down-in-cherwell/)
+* Bedford Independent: [Concerns raised as councils’ debt rises across Bedfordshire](https://www.bedfordindependent.co.uk/concerns-raised-as-councils-debt-rises-across-bedfordshire/)
 * Bedford Today: [Bedford council's debt has risen 47% in the last year](https://www.bedfordtoday.co.uk/news/politics/council/bedford-councils-debt-has-risen-47-in-the-last-year-5290364)
 * Biggleswade Chronicle: [Central Bedfordshire Council debt has risen by more than a quarter in the past year](https://www.biggleswadetoday.co.uk/news/politics/council/central-bedfordshire-council-debt-has-risen-by-more-than-a-quarter-in-the-past-year-5288015)
 * Brecon and Radnor Express: [COUNCIL DEBT: Powys piles on the debt over the past fiscal year](https://www.brecon-radnor.co.uk/news/council-debt-powys-piles-on-the-debt-over-the-past-fiscal-year-825039)
@@ -100,7 +102,8 @@ For instance, North East Derbyshire Council told us: “The HRA (Housing Revenue
 * On The Wight: [Isle of Wight Council debt very small compared to many other councils nationally](https://onthewight.com/isle-of-wight-council-debt-very-small-compared-to-many-other-councils-nationally/)
 * PlymouthLive: [Plymouth tops the list of Devon councils who owe the most money](https://www.plymouthherald.co.uk/news/plymouth-news/plymouth-tops-list-devon-councils-10448250)
 * Room151: [Local authority debt in the spotlight as £2.9bn of assets sold in two years](https://www.room151.co.uk/treasury/local-authority-debt-in-the-spotlight-as-2-9bn-of-assets-sold-in-two-years/)
-* Shetland News: [SIC has lowest borrowing debt of all Scottish local authorities, figures suggest](https://www.shetnews.co.uk/2025/08/27/sic-lowest-borrowing-debt-scotland/)`
+* Shetland News: [SIC has lowest borrowing debt of all Scottish local authorities, figures suggest](https://www.shetnews.co.uk/2025/08/27/sic-lowest-borrowing-debt-scotland/)
+* Spalding and South Holland Voice: [Debts at local councils revealed](https://spaldingvoice.co.uk/debts-at-local-councils-revealed/)
 * Suffolk News: [Suffolk's council debt reaches £1.1bn — here's what it means for your area](https://www.suffolknews.co.uk/bury-st-edmunds/news/suffolks-council-debt-reaches-1-1bn-heres-what-it-means-9430793/)
 * SurreyLive: [Surrey racks up one of UK’s fastest rises in council debt in ‘extremely worrying’ trend](https://www.getsurrey.co.uk/news/surrey-news/surrey-racks-up-one-uks-32352861)
 * The Tenby Observer: [Pembrokeshire Council's debt soars to nearly £200m, worrying experts](https://www.tenby-today.co.uk/news/pembrokeshire-councils-debt-soars-to-nearly-ps200m-worrying-experts-824568)
