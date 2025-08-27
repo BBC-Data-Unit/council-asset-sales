@@ -1,6 +1,6 @@
 # Schools, care homes and sports clubs sold off to pay spiralling council debt
 
-![Bar chart: English councils with the largest amount of debt per head of population: Woking's £2.16bn worth of debt is equivalent to more than £20,000 per person - double that of the next highest council.](https://raw.githubusercontent.com/BBC-Data-Unit/council-asset-sales/refs/heads/main/English%20councils%20with%20the%20largest%20amount%20of%20debt%20per%20head%20of%20population.png?token=GHSAT0AAAAAADH342Z5UPQ6VJB3QCUBHG6A2FO47GA)
+![New Addington Boxing Club head coach Bill Graham says the long-term future of the club is unstable after it was forced to leave its community centre premises](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/222f/live/2a496d00-7df5-11f0-b7e1-9f17ccfbbce5.jpg)
 
 Councils in the UK added £7.8bn to their growing debt pile in the space of a year - [the Shared Data Unit has found](https://www.bbc.co.uk/news/articles/cq87497v8ypo).
 
