@@ -57,11 +57,13 @@ For instance, North East Derbyshire Council told us: “The HRA (Housing Revenue
 ## Story coverage
 
 * Ayr Advertiser: [Council tax hike fears as Ayrshire's council debt rises](https://www.ayradvertiser.com/news/25418063.council-tax-hike-fears-ayrshires-council-debt-rises/)
+* BBC Northamptonshire: [Local authority's level of debt rises to £679m](https://www.bbc.co.uk/news/articles/c890n9v845yo)
 * BBC North East: [Debt owed by North East councils tops £4.3bn](https://www.bbc.co.uk/news/articles/cvgn7pp5v3vo)
 * BBC Peterborough: [City council's debt rises by £13.5m](https://www.bbc.co.uk/news/articles/cy40kr03rx8o)
 * BBC Scotland: [Scotland's councils are £20bn in debt - but it's not all bad](https://www.bbc.co.uk/news/articles/c62742ee2kzo)
 * BBC Surrey: [Woking council has biggest debt per person in UK](https://www.bbc.co.uk/news/articles/cly3emdgjd9o)
 * BBC Sussex: [East Sussex councils are half-a-billion in debt](https://www.bbc.co.uk/news/articles/cy5pdp3yyqxo)
+* BBC Wales: [Swansea council debt could rise to £750m through borrowing](https://www.bbc.co.uk/news/uk-wales-68171764)
 * BBC West of England: [West's councils sell assets as debts rise by £245m](https://www.bbc.co.uk/news/articles/cglnp2x7p50o)
 * BBC West Midlands: [Council has highest debt among UK local authorities](https://www.bbc.co.uk/news/articles/cnv7p3dzz7yo)
 * Bedford Today: [Bedford council's debt has risen 47% in the last year](https://www.bedfordtoday.co.uk/news/politics/council/bedford-councils-debt-has-risen-47-in-the-last-year-5290364)
