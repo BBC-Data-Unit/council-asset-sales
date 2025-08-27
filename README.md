@@ -56,6 +56,18 @@ For instance, North East Derbyshire Council told us: “The HRA (Housing Revenue
 
 ## Story coverage
 
+* Ayr Advertiser: [Council tax hike fears as Ayrshire's council debt rises](https://www.ayradvertiser.com/news/25418063.council-tax-hike-fears-ayrshires-council-debt-rises/)
+* BBC North East: [Debt owed by North East councils tops £4.3bn](https://www.bbc.co.uk/news/articles/cvgn7pp5v3vo)
+* BBC Peterborough: [City council's debt rises by £13.5m](https://www.bbc.co.uk/news/articles/cy40kr03rx8o)
+* BBC Scotland: [Scotland's councils are £20bn in debt - but it's not all bad](https://www.bbc.co.uk/news/articles/c62742ee2kzo)
+* BBC Surrey: [Woking council has biggest debt per person in UK](https://www.bbc.co.uk/news/articles/cly3emdgjd9o)
+* BBC Sussex: [East Sussex councils are half-a-billion in debt](https://www.bbc.co.uk/news/articles/cy5pdp3yyqxo)
+* BBC West of England: [West's councils sell assets as debts rise by £245m](https://www.bbc.co.uk/news/articles/cglnp2x7p50o)
+* BBC West Midlands: [Council has highest debt among UK local authorities](https://www.bbc.co.uk/news/articles/cnv7p3dzz7yo)
+* Greenwich Wire: [Greenwich Council’s debt soars by more than £900 per resident](https://greenwichwire.co.uk/2025/08/26/greenwich-council-debt-soars-900-per-resident-2025/)
+* Shetland News: [SIC has lowest borrowing debt of all Scottish local authorities, figures suggest](https://www.shetnews.co.uk/2025/08/27/sic-lowest-borrowing-debt-scotland/)`
+* Suffolk News: [Suffolk's council debt reaches £1.1bn — here's what it means for your area](https://www.suffolknews.co.uk/bury-st-edmunds/news/suffolks-council-debt-reaches-1-1bn-heres-what-it-means-9430793/)
+
 ## Related projects
 
 In September 2023, a BBC Shared Data Unit analysis of data by the Department for Levelling Up, Housing and Communities [showed](https://www.bbc.co.uk/news/uk-67707156) UK councils owed a combined £97.8bn to lenders, equivalent to £1,455 per resident, as of September 2023. The [repo for that is here](https://github.com/BBC-Data-Unit/council-debt-23)
