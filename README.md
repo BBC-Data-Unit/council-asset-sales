@@ -1,5 +1,7 @@
 # Schools, care homes and sports clubs sold off to pay spiralling council debt
 
+![Bar chart: English councils with the largest amount of debt per head of population: Woking's £2.16bn worth of debt is equivalent to more than £20,000 per person - double that of the next highest council.](https://raw.githubusercontent.com/BBC-Data-Unit/council-asset-sales/refs/heads/main/English%20councils%20with%20the%20largest%20amount%20of%20debt%20per%20head%20of%20population.png?token=GHSAT0AAAAAADH342Z5UPQ6VJB3QCUBHG6A2FO47GA)
+
 Councils in the UK added £7.8bn to their growing debt pile in the space of a year - [the Shared Data Unit has found](https://www.bbc.co.uk/news/articles/cq87497v8ypo).
 
 Analysis of data from the Ministry of Housing, Communities and Local Government (MHCLG) shows UK councils owe a combined £122.2bn to lenders, equivalent to £1,791 per resident, as of April 2025.
@@ -52,7 +54,14 @@ For instance, North East Derbyshire Council told us: “The HRA (Housing Revenue
 * ONS: [Dataset Estimates of the population for the UK, England, Wales, Scotland and Northern Ireland](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland)
 * Analysis: [Council debt 2025](https://github.com/BBC-Data-Unit/council-asset-sales/blob/main/data/Council%20debt%202025%20-%20for%20sharing.xlsx)
 
-
-## Scripts
-
 ## Story coverage
+
+## Related projects
+
+In September 2023, a BBC Shared Data Unit analysis of data by the Department for Levelling Up, Housing and Communities [showed](https://www.bbc.co.uk/news/uk-67707156) UK councils owed a combined £97.8bn to lenders, equivalent to £1,455 per resident, as of September 2023. The [repo for that is here](https://github.com/BBC-Data-Unit/council-debt-23)
+
+In August 2023, the BBC Shared Data Unit [revealed](https://www.bbc.co.uk/news/uk-66428191) that a black hole in local authority budgets continues to grow, prompting fears some will not be able to provide basic services ([repo available here](https://github.com/BBC-Data-Unit/council-finances-23)).
+
+In July 2021, the BBC Shared Data Unit [reported](https://www.bbc.co.uk/news/uk-57720900) that UK councils faced a £3bn black hole in their budgets as they emerged from the coronavirus pandemic ([repo available here](https://github.com/BBC-Data-Unit/Council_cuts_during_the_pandemic)).
+
+
