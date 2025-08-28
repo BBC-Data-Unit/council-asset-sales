@@ -76,6 +76,7 @@ For instance, North East Derbyshire Council told us: “The HRA (Housing Revenue
 * Cambrian News: [COUNCIL DEBT: Ceredigion piles on debt, owes £126 million - more than 3 times the reserves it has on hand](https://www.cambrian-news.co.uk/news/council-debt-ceredigion-piles-on-debt-owes-ps126-million-more-than-3-times-the-reserves-it-has-on-hand-825019)
 * CambridgeshireLive: [Peterborough City Council's increasing debt causes concerns over 'wasted money'](https://www.cambridge-news.co.uk/news/news-opinion/peterborough-city-councils-increasing-debt-32357112)
   * [‘Further borrowing required’ by council despite half a billion pound debt]()https://www.cambridge-news.co.uk/news/local-news/further-borrowing-required-council-despite-32336710
+* Chronicle Live: [North East council debts tops £4.3bn amid worries over 'unsustainable' funding system](https://www.chroniclelive.co.uk/news/north-east-news/north-east-council-debt-levels-32333788)
 * Clydebank Post: [West Dunbartonshire Council in top 10 in UK for debt levels](https://www.clydebankpost.co.uk/news/25415429.west-dunbartonshire-council-top-10-uk-debt-levels/)
 * CoventryLive: [Coventry City Council's debt spirals to £257m](https://www.coventrytelegraph.net/news/coventry-news/coventry-city-councils-debt-spirals-32357746)
 * Crediton Courier: [Devon councils owe £1.9 billion to lenders](https://www.creditoncourier.co.uk/news/devon-councils-owe-ps19-billion-to-lenders-825453)
